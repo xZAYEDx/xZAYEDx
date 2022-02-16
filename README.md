@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 - 🗺 I am from Yemen :yemen: liviing in India :india:
 - 📚 Learning and practicing Front-End technologies
 - 🌱 I’m currently learning Bootstrap 
+- 🔭 I’m currently working on [FrontEnd Mentor challenges](https://www.frontendmentor.io/profile/xZAYEDx)
 - 👯 I’m looking to collaborate with other developers to practice working on projects together 
 - 🎯 2022 Goals: Become a Front-End developer
 - 🕹 Hobbies: Play video games, love reading technical and non technical content
-- 📫 How to reach me: [Twitter](https://twitter.com/DrCyborg)
+- 📫 How to reach me: [Twitter](https://twitter.com/DrCyborg) [Discord](DRxCYBORG#4625) [Slack](zayed)
 
 <br />
 
