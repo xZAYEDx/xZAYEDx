@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ### Hi, I'm Zayed Gawi 🧔🏽💻
 
 ## I'm a noob
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ED074A&title_bg=%23010D35&icon=riotgames.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🗺 I am from Yemen :yemen: liviing in India :india:
 - 📚 Learning and practicing Front-End technologies
