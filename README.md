@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other developers to practice working on projects together 
 - 🎯 2022 Goals: Become a Front-End developer
 - 🕹 Hobbies: Play video games, love reading technical and non technical content
-- 📫 How to reach me: [Twitter](https://twitter.com/DrCyborg) [Discord](https://discord.com/DRxCYBORG#4625) [Slack](zayed)
+- 📫 How to reach me: [Twitter](https://twitter.com/DrCyborg) [Discord](https://discord.com/channels/@me) [Slack](zayed)
 
 <br />
 
