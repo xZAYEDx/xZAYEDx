@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # About ME 🍏
 
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="20px"> Hi, I'm Zayed Gawi 🧔🏽💻
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi, I'm Zayed Gawi 🧔🏽💻
 
 ## I'm a noob
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FxZAYEDx&count_bg=%23080233&title_bg=%23BC082A&icon=riotgames.svg&icon_color=%23EDEDED&title=Fans&edge_flat=false)](https://hits.seeyoufarm.com)
