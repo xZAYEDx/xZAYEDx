@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## I'm a noob
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FxZAYEDx&count_bg=%23080233&title_bg=%23BC082A&icon=riotgames.svg&icon_color=%23EDEDED&title=Fans&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🗺 I am from Yemen :yemen: liviing in Oman :🇴🇲:
+- 🗺 I am from Yemen :yemen: liviing in Oman 🇴🇲
 - 📚 Learning and practicing Front-End technologies
 - 🌱 I’m currently learning Bootstrap 
 - 🔭 I’m currently working on [FrontEnd Mentor challenges](https://www.frontendmentor.io/profile/xZAYEDx)
