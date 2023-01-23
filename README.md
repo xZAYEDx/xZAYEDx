@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 ## I'm a noob
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FxZAYEDx&count_bg=%23080233&title_bg=%23BC082A&icon=riotgames.svg&icon_color=%23EDEDED&title=Fans&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🗺 I am from Yemen :yemen: liviing in India :india:
+- 🗺 I am from Yemen :yemen: liviing in Oman :🇴🇲:
 - 📚 Learning and practicing Front-End technologies
 - 🌱 I’m currently learning Bootstrap 
 - 🔭 I’m currently working on [FrontEnd Mentor challenges](https://www.frontendmentor.io/profile/xZAYEDx)
 - 👯 I’m looking to collaborate with other developers to practice working on projects together 
-- 🎯 2022 Goals: Become a Front-End developer
+- 🎯 2023 Goals: Become a Front-End developer
 - 🕹 Hobbies: Play video games, love reading technical and non technical content
 - 📫 How to reach me: [Twitter](https://twitter.com/DrCyborg) [Telegram](https://web.telegram.org/z/)
 <br />
