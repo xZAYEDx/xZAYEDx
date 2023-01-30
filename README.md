@@ -60,10 +60,9 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
-<img align="right" alt="Codewars stats" title="Codewars" src="https://www.codewars.com/users/__ZAYED__/badges/large"/>
-
-
+<br />
+<br />
+<br />
 <br />
 <br />
 
