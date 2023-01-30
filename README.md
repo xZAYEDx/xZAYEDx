@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 ---
 <img align="left" alt="Zayed Gawi stats" src="https://github-readme-stats.vercel.app/api?username=xZAYEDx&show_icons=true&hide_border=true&theme=radical"/>
 
-<a href="https://www.codewars.com/users/__ZAYED__">
-<img align="right" style="vertical-align: top" alt="Codewars stats" title="Codewars" src="https://www.codewars.com/users/__ZAYED__/badges/large" target="_blank"/>
+<a href="https://www.codewars.com/users/__ZAYED__" target="_blank">
+<img align="right" style="vertical-align: top" alt="Codewars stats" title="Codewars" src="https://www.codewars.com/users/__ZAYED__/badges/large" />
 </a>
 
 <br />
