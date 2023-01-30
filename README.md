@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Zayed Gawi stats" src="https://github-readme-stats.vercel.app/api?username=xZAYEDx&show_icons=true&hide_border=true&theme=radical"/>
 
 <img align="right" style="vertical-align: top" alt="Codewars stats" title="Codewars"
-     href="https://www.codewars.com/users/__ZAYED__" src="https://www.codewars.com/users/__ZAYED__/badges/large" target="_blank"/>
+     [](https://www.codewars.com/users/__ZAYED__) src="https://www.codewars.com/users/__ZAYED__/badges/large" target="_blank"/>
 
 <br />
 <br />
