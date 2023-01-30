@@ -69,3 +69,7 @@ Here are some ideas to get you started:
 <br />
 
 <img align="left" alt="Zayed Gawi stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xZAYEDx&layout=compact&theme=tokyonight"/>
+
+
+### Codewars Rank
+<img align="left" alt="Codewars stats" src="https://www.codewars.com/users/__ZAYED__/badges/large"/>
